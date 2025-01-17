@@ -1,5 +1,5 @@
-# SODV1201
-### The demo code for course SODV1201
+# Full Stack
+### Javascript/ExpressJS/MongoDB
 ### 1. jQuery: jQuery notes
 ### 2. CardProject: show data on the page
 ### 3. async: promise / async / await
